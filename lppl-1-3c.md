@@ -115,6 +115,7 @@ If the Work is unmaintained, you can become the Current Maintainer of the Work t
 2. If this search is successful, then enquire whether the Work is still maintained.
     1. If it is being maintained, then ask the Current Maintainer to update their communication data within one month.
     2. If the search is unsuccessful or no action to resume active maintenance is taken by the Current Maintainer, then announce within the pertinent community your intention to take over maintenance. (If the Work is a LaTeX work, this could be done, for example, by posting to comp.text.tex.)
+    {:style="list-style-type:lower-latin"}
 3. 
     1. If the Current Maintainer is reachable and agrees to pass maintenance of the Work to you, then this takes effect immediately upon announcement.
     2. If the Current Maintainer is not reachable and the Copyright Holder agrees that maintenance of the Work be passed to you, then this takes effect immediately upon announcement.
