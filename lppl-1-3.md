@@ -90,7 +90,7 @@ In this license document the following terms are used:
     2. If a Derived Work is distributed under this license, that Derived Work must provide sufficient documentation as part of itself to allow each recipient of that Derived Work to honor the restrictions in Clause 6 above, concerning changes from the Work.
     {: list_lower-alpha}
 11. This license places no restrictions on works that are unrelated to the Work, nor does this license place any restrictions on aggregating such works with the Work by any means.
-12. Nothing in this license is intended to, or may be used to, prevent complete compliance by all parties with all applicable laws.
+12. XXXNothing in this license is intended to, or may be used to, prevent complete compliance by all parties with all applicable laws.
 {:style="list-style-type:lower-roman"}
 
 
