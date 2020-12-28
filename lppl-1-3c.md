@@ -118,11 +118,9 @@ If the Work is unmaintained, you can become the Current Maintainer of the Work t
     {:style="list-style-type:lower-latin"}
 3. 
     1. If the Current Maintainer is reachable and agrees to pass maintenance of the Work to you, then this takes effect immediately upon announcement.
-    2. If the Current Maintainer is not reachable and the Copyright Holder agrees that maintenance of the Work be passed to you, then this takes effect immediately upon announcement.
-	{: #notreachable}
+    2. {: #notreachable} If the Current Maintainer is not reachable and the Copyright Holder agrees that maintenance of the Work be passed to you, then this takes effect immediately upon announcement.
     {:style="list-style-type:lower-latin"}
-4. If you make an `intention announcement' as described in 2b. above and after three months your intention is challenged neither by the Current Maintainer nor by the Copyright Holder nor by other people, then you may arrange for the Work to be changed so as to name you as the (new) Current Maintainer.
-{: #threemonths}
+4. {: #threemonths} If you make an `intention announcement' as described in 2b. above and after three months your intention is challenged neither by the Current Maintainer nor by the Copyright Holder nor by other people, then you may arrange for the Work to be changed so as to name you as the (new) Current Maintainer.
 5. If the previously unreachable Current Maintainer becomes reachable once more within three months of a change completed under the terms of [3b)](#notreachable) or [4)](#threemonths), then that Current Maintainer must become or remain the Current Maintainer upon request provided they then update their communication data within one month.
  
 A change in the Current Maintainer does not, of itself, alter the fact that the Work is distributed under the LPPL license.
